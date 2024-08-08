@@ -28,7 +28,9 @@ View Final Score: After all questions are answered, your final score will be dis
 # Project Structure
 
 quiz-application/
+
 │
+
 ├── main.py               # Entry point of the application
 
 ├── quiz_api.py           # Handles the API requests and data parsing
